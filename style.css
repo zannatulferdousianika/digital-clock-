@@ -14,7 +14,7 @@
     
     align-items: center;
     
-    background: linear-gradient(135deg, #ec2d34, #cf656e);
+    background: linear-gradient(135deg, #2d80ec, #d13c48);
     
     font-family: 'Arial', sans-serif;
     
@@ -34,7 +34,7 @@
     
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
     
-    animation: glow 3s infinite;
+    animation: glow 4s infinite;
     
     }
     
@@ -46,11 +46,13 @@
     
     color: #ffffff;
     
-    text-shadow: 1px 1px 4px #373737;
+    text-shadow: 1px 1px 4px #cee40a;
     
     margin: 0;
     
     }
+
+
     
     @keyframes glow {
     
@@ -66,4 +68,5 @@
       font-size: larger;
       color: azure;
       font-weight: bolder;
+      text-shadow: 1px 0.5px 3px cornflowerblue;
    }
