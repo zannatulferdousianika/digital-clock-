@@ -1,4 +1,6 @@
-body {
+ 
+ 
+ body {
 
     margin: 0;
     
@@ -59,3 +61,9 @@ body {
     100% { box-shadow: 0 10px 30px rgba(255, 255, 255, 0.2); }
     
     }
+
+   #date{
+      font-size: larger;
+      color: azure;
+      font-weight: bolder;
+   }
